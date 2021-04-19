@@ -1,4 +1,6 @@
 ## 升级到jdk11版本
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyunkuangao%2Fdb_export_word.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyunkuangao%2Fdb_export_word?ref=badge_shield)
+
 以后通过jdk11进行开发，使用jdk最新特性
 升级参考链接 [如何使用IntelliJ IDEA的Favorites来管理项目中的常用代码](https://www.cnblogs.com/deng-cc/p/6530279.html)
 
@@ -36,3 +38,6 @@ word内能够显示是否为主键
  访问地址http://localhost:8080
 
 旧式访问地址，不可使用 ~~http://localhost:8080/dbExport/web/index.html~~ 
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyunkuangao%2Fdb_export_word.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyunkuangao%2Fdb_export_word?ref=badge_large)
